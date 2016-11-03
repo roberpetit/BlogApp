@@ -1,7 +1,0 @@
-ar\com\escuelita\chicken\presentacion\controlador\LoginControlador.class
-ar\com\escuelita\chicken\presentacion\dto\UsuarioDTO.class
-ar\com\escuelita\chicken\presentacion\controlador\Controlador.class
-ar\com\escuelita\chicken\base\mapeador\Mapeador.class
-ar\com\escuelita\chicken\persistencia\modelo\Modelo.class
-ar\com\escuelita\chicken\base\dto\DTO.class
-ar\com\escuelita\chicken\base\enumerador\EnumPerfil.class
